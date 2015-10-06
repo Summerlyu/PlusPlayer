@@ -1,0 +1,13 @@
+<configuration>
+  <appSettings>
+    <add key="playState" value="2" />
+    <add key="sound" value="47" />
+    <add key="DeskIsDoubleline" value="false" />
+    <add key="NormalColor" value="-16711936" />
+    <add key="LightColor" value="-256" />
+    <add key="BackColor" value="-16777216" />
+    <add key="FontFamily" value="幼圆" />
+    <add key="FontSize" value="14.25" />
+    <add key="FontStyle" value="regular" />
+  </appSettings>
+</configuration>

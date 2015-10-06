@@ -1,0 +1,30 @@
+C:\Users\Summer\Desktop\MyPlayer\AttributeTudou\obj\Debug\ResolveAssemblyReference.cache
+E:\MyPlayer\AttributeTudou\obj\Debug\ResolveAssemblyReference.cache
+E:\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+E:\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+E:\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+E:\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\MyPlayer(2)\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\MyPlayer(2)\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\MyPlayer(2)\MyPlayer\AttributeTudou\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Summer\Desktop\MyPlayer(2)\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\MyPlayer(2)\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\P+\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\P+\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+C:\Users\Summer\Desktop\P+\MyPlayer\AttributeTudou\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Summer\Desktop\P+\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+C:\Users\Summer\Desktop\P+\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb
+C:\Users\czd\Desktop\MyPlayer\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+C:\Users\czd\Desktop\MyPlayer\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+C:\Users\czd\Desktop\MyPlayer\MyPlayer\AttributeTudou\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\czd\Desktop\MyPlayer\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+C:\Users\czd\Desktop\MyPlayer\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb
+D:\项目\P+\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.dll
+D:\项目\P+\MyPlayer\AttributeTudou\bin\Debug\Attribute Tudou.pdb
+D:\项目\P+\MyPlayer\AttributeTudou\obj\Debug\Attribute.csprojResolveAssemblyReference.cache
+D:\项目\P+\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.dll
+D:\项目\P+\MyPlayer\AttributeTudou\obj\Debug\Attribute Tudou.pdb

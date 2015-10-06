@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MediaPlayer">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\MediaPlayer.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\MediaPlayer.suo">
+</Property><Property Name="Date" Value="2012年7月24日">
+</Property><Property Name="Time" Value="17:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MediaPlayer.sln" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="MediaPlayer.suo" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer.suo">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\雅风随风播放器.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\雅风随风播放器.csproj">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\雅风随风播放器.csproj.user" Description="项目用户文件成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\雅风随风播放器.csproj.user">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Config.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Config.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcControl.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcControl.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcControl.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcControl.designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcFrm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcFrm.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcFrm.designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcFrm.designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Helper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Helper.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcConnections.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcConnections.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcFrm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcFrm.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcFrm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcPanel.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcPanel.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcPanel.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcPanel.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcSetFrm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcSetFrm.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcSetFrm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcSetFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\MainFrm.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\MainFrm.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\MainFrm.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\MainFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\myLabel.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\myLabel.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\myLabel.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\myLabel.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Program.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\UserHelper.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\UserHelper.cs">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\foreback.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\foreback.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\forebackdown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\forebackdown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\forebackfb.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\forebackfb.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\next.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\next.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\nextmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\nextmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\nextmouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\nextmouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\open.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\open.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\openmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\openmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\openmouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\openmouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pause.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pause.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pausebg.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pausebg.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pausemousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pausemousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pausemouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pausemouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\play.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\play.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\playmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\playmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\playmouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\playmouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\prav.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\prav.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pravmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pravmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\pravmouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\pravmouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\Prev.bmp" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\Prev.bmp">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\progress00.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\progress00.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\progress.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\progress.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\progressmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\progressmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\set.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\set.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\setdown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\setdown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\setover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\setover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\sound.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\sound.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\soundbar.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\soundbar.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\soundbarmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\soundbarmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\soundover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\soundover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\soundstop.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\soundstop.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\stop.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\stop.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\stopmousedown.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\stopmousedown.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\stopmouseover.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\stopmouseover.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\荷.jpg" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\荷.jpg">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\app.config" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\app.config">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\app.manifest" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Resources\截图00.gif" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Resources\截图00.gif">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\1.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\1.ico">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\shutdownwindows.ico" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\shutdownwindows.ico">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcControl.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcControl.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\DeskLrcFrm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\DeskLrcFrm.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcFrm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcFrm.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcPanel.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcPanel.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\LrcSetFrm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\LrcSetFrm.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\MainFrm.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\MainFrm.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\MediaPlayer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\雅风随风播放器.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="雅风随风播放器" Source="MediaPlayer\雅风随风播放器.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AttributeReflection" Source="AttributeReflection\AttributeReflection.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeReflection\AttributeReflection.csproj">
+</Event><Event ErrorLevel="0" Project="AttributeReflection" Source="AttributeReflection\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeReflection\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AttributeReflection" Source="AttributeReflection\Tudou.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeReflection\Tudou.cs">
+</Event><Event ErrorLevel="0" Project="AttributeReflection" Source="AttributeReflection\AttributeReflection.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AttributeReflection" Source="AttributeReflection\AttributeReflection.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AttributeTudou" Source="AttributeTudou\AttributeTudou.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeTudou\AttributeTudou.csproj">
+</Event><Event ErrorLevel="0" Project="AttributeTudou" Source="AttributeTudou\AttibuteTuDou.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeTudou\AttibuteTuDou.cs">
+</Event><Event ErrorLevel="0" Project="AttributeTudou" Source="AttributeTudou\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Desktop\MediaPlayer(1)\MediaPlayer\Backup\AttributeTudou\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AttributeTudou" Source="AttributeTudou\AttributeTudou.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="AttributeTudou" Source="AttributeTudou\AttributeTudou.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MediaPlayer.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="MediaPlayer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="雅风随风播放器" Source="MediaPlayer\雅风随风播放器.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="AttributeReflection" Source="AttributeReflection\AttributeReflection.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="AttributeTudou" Source="AttributeTudou\AttributeTudou.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

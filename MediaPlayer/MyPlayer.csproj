@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MediaPlayer</RootNamespace>
+    <AssemblyName>MyPlayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationIcon>i1.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <StartupObject>MediaPlayer.Program</StartupObject>
+    <SignManifests>false</SignManifests>
+    <SignAssembly>false</SignAssembly>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <ManifestCertificateThumbprint>E1D068582674A34AB289F8EC55C1F7A68865FEC0</ManifestCertificateThumbprint>
+    <ManifestKeyFile>雅风随风.pfx</ManifestKeyFile>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>false</GenerateManifests>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddScheduleForm.designer.cs">
+      <DependentUpon>AddScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalculatorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalculatorForm.designer.cs">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CalenderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalenderForm.designer.cs">
+      <DependentUpon>CalenderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CameraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CameraForm.designer.cs">
+      <DependentUpon>CameraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="DeskLrcControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeskLrcControl.designer.cs">
+      <DependentUpon>DeskLrcControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeskLrcFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeskLrcFrm.designer.cs">
+      <DependentUpon>DeskLrcFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TimerShutdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TimerShutdown.designer.cs">
+      <DependentUpon>TimerShutdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tips.designer.cs">
+      <DependentUpon>Tips.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyScheduleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModifyScheduleForm.designer.cs">
+      <DependentUpon>ModifyScheduleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="LrcConnections.cs" />
+    <Compile Include="LrcFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LrcFrm.Designer.cs">
+      <DependentUpon>LrcFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LrcPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LrcPanel.Designer.cs">
+      <DependentUpon>LrcPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LrcSetFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LrcSetFrm.Designer.cs">
+      <DependentUpon>LrcSetFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniFrm.Designer.cs">
+      <DependentUpon>MiniFrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="myLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="myLabel.Designer.cs">
+      <DependentUpon>myLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Player.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Player.Designer.cs">
+      <DependentUpon>Player.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ZipCode.cs" />
+    <Compile Include="ZipCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZipCodeForm.designer.cs">
+      <DependentUpon>ZipCodeForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddScheduleForm.resx">
+      <DependentUpon>AddScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalculatorForm.resx">
+      <DependentUpon>CalculatorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalenderForm.resx">
+      <DependentUpon>CalenderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CameraForm.resx">
+      <DependentUpon>CameraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeskLrcControl.resx">
+      <DependentUpon>DeskLrcControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeskLrcFrm.resx">
+      <DependentUpon>DeskLrcFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TimerShutdown.resx">
+      <DependentUpon>TimerShutdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tips.resx">
+      <DependentUpon>Tips.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyScheduleForm.resx">
+      <DependentUpon>ModifyScheduleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notepad.resx">
+      <DependentUpon>Notepad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LrcFrm.resx">
+      <DependentUpon>LrcFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LrcPanel.resx">
+      <DependentUpon>LrcPanel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LrcSetFrm.resx">
+      <DependentUpon>LrcSetFrm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniFrm.resx">
+      <DependentUpon>MiniFrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Player.resx">
+      <DependentUpon>Player.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZipCodeForm.resx">
+      <DependentUpon>ZipCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Clock_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="pub.cs" />
+    <Compile Include="Schedule.cs" />
+    <Compile Include="UserHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foreback.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forebackdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forebackfb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nextmouseover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openmouseover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pausebg.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pausemousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pausemouseover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playmouseover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prav.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pravmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pravmouseover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Prev.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress00.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progressmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\set.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setdown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundbar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundbarmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundover.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soundstop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stopmousedown.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.ico" />
+    <Content Include="i1.ico" />
+    <Content Include="MyPlayer.ico" />
+    <None Include="Resources\t1.png" />
+    <None Include="Resources\skin\Maingirl.jpg" />
+    <None Include="Resources\i1.png" />
+    <None Include="Resources\1.png" />
+    <Content Include="Resources\bk.jpg" />
+    <None Include="Resources\button\CameraForm.png" />
+    <None Include="Resources\button\记事本 .png" />
+    <None Include="Resources\button\日程表 .png" />
+    <None Include="Resources\button\计算器 .png" />
+    <None Include="Resources\button\定时关机2.png" />
+    <None Include="Resources\button\常用查询.png" />
+    <None Include="Resources\button\拍照.png" />
+    <None Include="Resources\button\MbtnSound.png" />
+    <None Include="Resources\button\MbtnNext.png" />
+    <None Include="Resources\button\MbtnPlay.png" />
+    <None Include="Resources\button\MbtnBack.png" />
+    <None Include="Resources\MbtnNext.png" />
+    <None Include="Resources\skin\WallM2.png" />
+    <None Include="Resources\skin\WallM1.png" />
+    <None Include="Resources\skin\KittyM.png" />
+    <None Include="Resources\skin\GreenLeafM.png" />
+    <None Include="Resources\skin\SkyGirlM1.png" />
+    <None Include="Resources\skin\RedCherryM.png" />
+    <None Include="Resources\skin\RedCherry.png" />
+    <None Include="Resources\skin\SkyGirl.png" />
+    <None Include="Resources\skin\PinkGiftM.png" />
+    <None Include="Resources\skin\greenWall_副本7.png" />
+    <None Include="Resources\skin\greenWall.png" />
+    <None Include="Resources\skin\greenWallS.png" />
+    <None Include="Resources\skin\PinkGift.png" />
+    <None Include="Resources\skin\Desert.png" />
+    <None Include="Resources\skin\wallM.png" />
+    <None Include="Resources\skin\DesertM.png" />
+    <None Include="Resources\skin\BluelakeM.png" />
+    <None Include="Resources\skin\GreenLeaf_副本.png" />
+    <None Include="Resources\skin\DesertS.png" />
+    <None Include="Resources\skin\RedCherryS.png" />
+    <None Include="Resources\skin\SkyGirlS.png" />
+    <None Include="Resources\skin\MoonLakeS.png" />
+    <None Include="Resources\skin\PinkGiftS.png" />
+    <None Include="Resources\skin\GreenLeafS.png" />
+    <None Include="Resources\skin\BluelakeS.png" />
+    <None Include="Resources\skin\Bluelake.png" />
+    <None Include="Resources\skin\wall.png" />
+    <None Include="Resources\skin\GreenLeaf.png" />
+    <None Include="Resources\skin\wallS.jpg" />
+    <None Include="Resources\skin\light.jpg" />
+    <None Include="Resources\skin\wall.jpg" />
+    <None Include="Resources\button\Wstop.png" />
+    <None Include="Resources\button\WBack.png" />
+    <None Include="Resources\button\playB.png" />
+    <None Include="Resources\button\Wplay.png" />
+    <None Include="Resources\button\WNext.png" />
+    <None Include="Resources\button\liston.png" />
+    <None Include="Resources\button\mode.png" />
+    <None Include="Resources\button\bback.png" />
+    <None Include="Resources\a1_副本.png" />
+    <None Include="Resources\button\Wpause.png" />
+    <None Include="Resources\button\listAdd.png" />
+    <None Include="Resources\button\listFind.png" />
+    <None Include="Resources\button\Wmin.png" />
+    <None Include="Resources\button\Wmini.png" />
+    <None Include="Resources\button\Wmax.png" />
+    <None Include="Resources\button\Wclose.png" />
+    <None Include="Resources\button\SoundOn.png" />
+    <None Include="Resources\button\Soundqt.png" />
+    <None Include="Resources\button\playbar.jpg" />
+    <None Include="Resources\button\Soundbar.jpg" />
+    <None Include="Resources\skin\Rblue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AttributeTudou\Attribute.csproj">
+      <Project>{3321996D-A5FF-4556-AE4B-05CBF6EA4F23}</Project>
+      <Name>Attribute</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+</Project>

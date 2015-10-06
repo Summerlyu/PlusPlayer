@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "雅风随风播放器", "MediaPlayer\雅风随风播放器.csproj", "{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeReflection", "AttributeReflection\AttributeReflection.csproj", "{FB32DCBD-D9AD-4C81-B7C4-FD6E4929FC35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeTudou", "AttributeTudou\AttributeTudou.csproj", "{71A72F23-F933-4B89-8B49-4A798A1516BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FF865EF-7FAC-42AE-9A8D-86023D559A0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB32DCBD-D9AD-4C81-B7C4-FD6E4929FC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB32DCBD-D9AD-4C81-B7C4-FD6E4929FC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB32DCBD-D9AD-4C81-B7C4-FD6E4929FC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB32DCBD-D9AD-4C81-B7C4-FD6E4929FC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A72F23-F933-4B89-8B49-4A798A1516BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A72F23-F933-4B89-8B49-4A798A1516BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A72F23-F933-4B89-8B49-4A798A1516BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A72F23-F933-4B89-8B49-4A798A1516BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
